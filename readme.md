@@ -4,6 +4,6 @@
 
 Using Go Get 
 ```
-go get https://github.com/talogodz/maqe_bot
+go get github.com/talogodz/maqe_bot
 maqe_bot RRRRRRW10
 ```
